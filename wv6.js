@@ -1,9 +1,9 @@
 
 var popunder=new Array()
-popunder[0]="http://bit.ly/1OmuQIF"
-popunder[1]="http://bit.ly/1OmuQIF"
-popunder[2]="http://bit.ly/1OmuQIF"
-popunder[3]="http://bit.ly/1OmuQIF"
+popunder[0]="http://bit.ly/1RUdY2G"
+popunder[1]="http://bit.ly/1RUdY2G"
+popunder[2]="http://bit.ly/1RUdY2G"
+popunder[3]="http://bit.ly/1RUdY2G"
 popunder[Math.floor(Math.random()*(popunder.length))]
 
 $(document).ready(function(){
