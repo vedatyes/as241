@@ -1,1 +1,1 @@
-<script type="text/javascript" src="">aaa</script>
+<?php echo "<script type='text/javascript'>";?>
